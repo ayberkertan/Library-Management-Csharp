@@ -16,9 +16,20 @@ Modern WPF arayüzlü kütüphane yönetim uygulaması. Kullanıcı ve kaynak (k
 - İade alma ve otomatik gecikme cezası (gün × 5 TL)
 - SQL Server LocalDB — ilk çalıştırmada veritabanı otomatik oluşur
 
-## Ekran görüntüleri
+## 📸 Ekran görüntüleri
+**Giriş Ekranı (Login)**
+*<img width="402" height="465" alt="Image" src="https://github.com/user-attachments/assets/af37392a-34e8-4927-b17e-a179fb7b96ef" />*
 
-Ekran görüntülerini `docs/screenshots/` klasörüne ekleyebilirsiniz (ör. `login.png`, `dashboard.png`).
+**Kullanıcı Yönetimi (User Management)**
+*<img width="1365" height="719" alt="Image" src="https://github.com/user-attachments/assets/b0921f9a-abd7-4fd4-87e6-ec3f25fdae3f" />*
+
+**Kaynaklar (Resources)**
+*<img width="1365" height="709" alt="Image" src="https://github.com/user-attachments/assets/322e9a4b-ae19-4ef8-a011-94aff15b5894" />*
+
+**Ödünç Verme ve İade (Borrow & Return)**
+*<img width="1365" height="717" alt="Image" src="https://github.com/user-attachments/assets/60e42fa2-6b29-4081-b1fa-54303a0b117c" />*
+
+*<img width="1365" height="717" alt="Image" src="https://github.com/user-attachments/assets/9ef38cbd-8062-4016-98d3-6a5214cf6f77" />*
 
 ## Gereksinimler
 
