@@ -1,4 +1,4 @@
-# Ayberk Kütüphane Otomasyonu
+#Kütüphane Otomasyonu
 
 Modern WPF arayüzlü kütüphane yönetim uygulaması. Kullanıcı ve kaynak (kitap) CRUD, ödünç verme / iade, gecikme cezası ve personel girişi içerir.
 
