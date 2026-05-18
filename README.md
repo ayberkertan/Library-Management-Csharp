@@ -41,7 +41,7 @@ Modern WPF arayüzlü kütüphane yönetim uygulaması. Kullanıcı ve kaynak (k
 ## Kurulum ve çalıştırma
 
 ```powershell
-git clone https://github.com/KULLANICI_ADINIZ/Ayberk-Kutuphane-Otomasyonu.git
+git clone https://github.com/ayberkertan/Library-Management-Csharp.git
 cd Ayberk-Kutuphane-Otomasyonu
 dotnet restore Kutuphane.sln
 dotnet run --project src/Kutuphane.App/Kutuphane.App.csproj
