@@ -19,6 +19,7 @@ Modern WPF arayüzlü kütüphane yönetim uygulaması. Kullanıcı ve kaynak (k
 ## 📸 Ekran görüntüleri 
 
 **Giriş Ekranı (Login)**
+
 *<img width="402" height="465" alt="Image" src="https://github.com/user-attachments/assets/af37392a-34e8-4927-b17e-a179fb7b96ef" />*
 
 **Kullanıcı Yönetimi (User Management)**
